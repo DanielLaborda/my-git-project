@@ -2,5 +2,5 @@ print('Hi Git')
 
 print('Hi from another dev')
 
-def hi_ther():
+def hi_there():
     print("hi")
