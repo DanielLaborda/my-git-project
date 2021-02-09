@@ -1,6 +1,6 @@
 # My git Project
 
->My code for the git project
+>My innocent little change
 
 >Readme please, I'm in the feature branch
 
